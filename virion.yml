@@ -1,0 +1,6 @@
+name: polyfill-mbstring
+description: Symfony polyfill for the Mbstring extension
+version: 1.31.0
+antigen: Symfony\Polyfill\Mbstring
+php: [^7.2]
+authors: [Nicolas Grekas, Symfony Community, PedhotDev]
